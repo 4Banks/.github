@@ -2,7 +2,11 @@
 
 Bem-vindo à 4banks! Somos uma organização criada para o desenvolvimento do projeto do módulo Onça Pintada do programa [</pantanal.dev>](https://pantanal.dev/), uma iniciativa da Universidade Federal de Mato Grosso do Sul em parceria com as empresas B3, PDtec, BLK e Neoway.
 
-Aqui, você encontrará os repositórios dos módulos do projeto e a documentação correspondente.
+Links úteis:
+- [Plataforma 4banks](http://34.172.61.208:3000/)
+- [Miro](https://miro.com/app/board/uXjVM4jAqaE=/?share_link_id=255003890023 )
+- [Figma](https://www.figma.com/file/Jez08hdzQ6kjMD6QVoY4R4/4Banks?type=design&node-id=0%3A1&mode=design&t=Bh3hnRl6ze23M708-1 )
+- [Google Drive](https://drive.google.com/drive/folders/1HOYL3ZswzHkxz6p6LFFc1yBr4rXwXRcy?usp=sharing )
 
 ## Sobre Nós
 
@@ -22,7 +26,7 @@ No projeto 4banks, desenvolveu o front-end e atuou no desenvolvimento do protót
 
 Dentre suas experiências concluídas, trabalhou como trainee full-stack na SENAI Soluções Digitais, adquirindo conhecimentos em Java EE, Docker e Scrum. Também atuou como desenvolvedor front-end na Mega Júnior, onde desenvolveu aplicações em Vue.js. Além disso, foi membro da diretoria de Recursos Humanos, o que lhe proporcionou o desenvolvimento de habilidades interpessoais para resolver problemas entre os membros da empresa júnior, contribuindo para uma maior integração na equipe.
 
-### [Lourdes Oshiro Igarashi](https://www.linkedin.com/in/lourdes-oshiro-igarashi/) - Desenvolvedora Front-end, Product Owner e Designer UI/UX
+### [Lourdes Oshiro Igarashi](https://www.linkedin.com/in/lourdes-oshiro-igarashi/) - Product Owner e Designer UI/UX
 
 Lourdes Oshiro Igarashi tem 22 anos e é graduanda de Engenharia de Software na Universidade Federal de Mato Grosso do Sul.
 
@@ -41,7 +45,7 @@ Nos últimos anos, dedicou-se à exploração de Visão Computacional e Processa
 
 No projeto 4banks, desempenhou os papéis de desenvolvedor backend, analista de dados e DevOps. Aliado à habilidade de comunicação, experiência em trabalho colaborativo e um forte desejo de crescimento, está determinado a aprimorar suas habilidades no campo do desenvolvimento de software, tanto na esfera acadêmica quanto no mercado.
 
-### [Mateus Mello](https://www.linkedin.com/in/mateuspmello/) - Mentor
+### [Mateus Mello](https://www.linkedin.com/in/mateuspmello/) - Mentor e Gerente de Projeto
 
 Desenvolvedor de software há mais de 10 anos, formado pela UFSC em Sistemas de Informação. Atua na Neoway também como desenvolvedor de software no time de Plataforma de Dados responsável por toda ingestão dos dados na plataforma.
 
