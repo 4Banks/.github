@@ -1,6 +1,6 @@
-# ![4banks icon](./assets/4banks-icon.png) 4banks
+# Organização 4banks
 
-Bem-vindo à 4banks! Somos uma organização criada para o desenvolvimento do projeto do módulo Onça Pintada do programa [<pantanal.dev>](https://pantanal.dev/), uma iniciativa da Universidade Federal de Mato Grosso do Sul em parceria com as empresas B3, PDtec, BLK e Neoway.
+Bem-vindo à 4banks! Somos uma organização criada para o desenvolvimento do projeto do módulo Onça Pintada do programa [</pantanal.dev>](https://pantanal.dev/), uma iniciativa da Universidade Federal de Mato Grosso do Sul em parceria com as empresas B3, PDtec, BLK e Neoway.
 
 Aqui, você encontrará os repositórios dos módulos do projeto e a documentação correspondente.
 
@@ -61,25 +61,17 @@ Trazemos funcionalidades do processamento à visualização do resultado para vo
 
 A página inicial do 4banks é a porta de entrada para a plataforma. Nela, o usuário pode visualizar as análises que foram realizadas no conjunto de dados "Credit Card Fraud Detection", utilizando métodos de balanceamento de dados, análises superficiais como média, moda e mediana, métodos de detecção de outliers algoritmos de Machine Learning, etc.
 
-![Home](./assets/home-page.png)
-
 ### Página - Análise de Dados
 
 A página de análise de dados é onde o usuário pode inserir seu conjunto de dados rolutados e selecionar os tratamentos, análises e algoritmos que deseja utilizar para obter insights sobre os atributos que compõem o dataset.
-
-![Análise de Dados](./assets/analise-de-dados-page.gif)
 
 ### Página - Quem Somos
 
 A página de quem somos é onde o usuário pode conhecer a equipe que desenvolveu o 4banks e suas respectivas funções no projeto.
 
-![Quem Somos](./assets/quem-somos-page.gif)
-
 ### Página - Documentação
 
 A página de documentação é onde o usuário pode conhecer mais sobre o projeto e a concepção do produto, como o design system, branch model, commit style, visão do produto, etc.
-
-![Documentação](./assets/documentacao-page.png)
 
 ## Repositórios
 
